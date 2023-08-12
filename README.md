@@ -24,26 +24,49 @@ There are two panel in the website; one for admin and one for general users.
 
 ### Homepage
 
+<img src = "https://github.com/mahjabinsultana/Precioso/blob/main/screenshots/homepage.png" />
+<img src = "https://github.com/mahjabinsultana/Precioso/blob/main/screenshots/homepagefooter.png" />
+
 ### Login Page
+
+<img src = "https://github.com/mahjabinsultana/Precioso/blob/main/screenshots/loginpage.png" />
 
 ### Create account page
 
+<img src = "https://github.com/mahjabinsultana/Precioso/blob/main/screenshots/createaccountpage.png" />
+
 ### Homepage after logging in
+
+<img src = "https://github.com/mahjabinsultana/Precioso/blob/main/screenshots/homepageafterlogin.png" />
 
 ### Products page
 
+<img src = "https://github.com/mahjabinsultana/Precioso/blob/main/screenshots/productpage.png" />
+<img src = "https://github.com/mahjabinsultana/Precioso/blob/main/screenshots/productpage2.png" />
+
 ### Product Details page
+
+<img src = "https://github.com/mahjabinsultana/Precioso/blob/main/screenshots/productdetailspage.png" />
 
 ### Cart
 
+<img src = "https://github.com/mahjabinsultana/Precioso/blob/main/screenshots/cartpage.png" />
+
 ### Orders
+
+<img src = "https://github.com/mahjabinsultana/Precioso/blob/main/screenshots/orderpage.png" />
 
 ## Admin panel's screenshots :
 
 ### Add new product page
 
+<img src = "https://github.com/mahjabinsultana/Precioso/blob/main/screenshots/admin'spanel.png" />
+
 ### View products
+
+<img src = "https://github.com/mahjabinsultana/Precioso/blob/main/screenshots/productshow.png" />
 
 ### View orders
 
+<img src = "https://github.com/mahjabinsultana/Precioso/blob/main/screenshots/ordershow.png" />
 
